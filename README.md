@@ -1,4 +1,4 @@
-## print("Hello World!👋)
+## print("Hello World!👋")
  I'm Alwi, a self taught developer.
 
 <!--
